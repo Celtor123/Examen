@@ -17,6 +17,7 @@ public class ExCOD1Av {
     public static void main(String[] args) {
         double precio=1232.32;
         int coche=3;
+        int CASA=2;
         // TODO code application logic here
         //A VER SI APRUEBO
         
