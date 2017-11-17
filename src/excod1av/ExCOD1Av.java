@@ -15,6 +15,7 @@ public class ExCOD1Av {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        double precio=1232.32;
         int coche=3;
         // TODO code application logic here
         //A VER SI APRUEBO
